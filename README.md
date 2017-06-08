@@ -1,2 +1,2 @@
 # mynodejs
-startup
+startup and for 1 days.
