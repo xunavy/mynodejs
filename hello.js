@@ -2,7 +2,7 @@ const http = require('http');
 
 const hostname = '127.0.0.1';
 //my update by test608
-const port = 6040;
+const port = 6020;
 
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
